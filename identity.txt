@@ -1,0 +1,119 @@
+The dangers of the state’s monopoly on identity - and what to do about it
+=========================================================================
+
+The state’s monopoly on identity excludes vulnerable people from jobs, housing, healthcare and more.
+
+This article began as a response to The Reboot’s article, which discusses the dangers of perpetual tracking by Google, Facebook and Microsoft. [1]
+
+While the tracking by Google, Facebook and Microsoft is definitely disturbing and can even put people in danger, the state’s data economy is even worse, with far-reaching consequences. Few people talk about this, even though it affects millions of people’s daily lives. [2]
+
+Via the government ID system, the state exerts a monopoly on identity and an obsession with tracking people from “birth certificate” to “death certificate”. Disproportionate KYC regulations actively exclude people without government-issued ID from necessary services, including jobs, housing and healthcare and even everyday things like online shopping, receiving mail, buying a sim card, doing volunteer work, taking classes, or visiting the gym or library.
+
+Millions of people worldwide don’t have access to government ID (the state refuses to print it for them) or can’t show ID for safety reasons (e.g. they are a victim of abuse and don’t want to be tracked down by the abuser). These people are often already in vulnerable situations (for example: stateless, undocumented or homeless people, activists, dissidents, refugees, victims of domestic abuse, adult victims of child abuse, or adults whose birth was not registered) and exclusion from basic needs makes it even more difficult to survive. [3, 4]
+
+The state offers no alternatives nor solutions — if the state refuses to print a passport, national ID card or birth certificate for someone, this person can’t appeal, get help from NGOs or lawyers, or find an alternative way to get ID. [5] There are no appeals, no checklists, no deals, no regularization, no rehabilitation, no special circumstances, no friendly jurisdictions — there is no way to earn access to ID via merit, vouches, oaths, good behavior, probation, community service, nor any other form of effort. If you were born in the wrong place (e.g. stateless, refugee, dissident) and/or to the wrong people (e.g. child abuse, cult, no birth registration), there is no way to rise above your situation through effort, determination or compassion. The state’s monopoly on identity is fatalistic. It is a centralized single point of failure.
+
+Similarly, there are no non-state solutions. NGOs and religious organizations don’t issue alternative IDs; jurisdictional arbitrage such as Flag Theory requires an existing birth certificate or old passport; and the state generally refuses to issue stateless passports or allow people who weren’t registered at birth to register themselves as adults (even if the individual provides a biometric photo, fingerprints and an identity witness, and would otherwise qualify for a skilled work, marriage or humanitarian visa).
+
+Even for individuals with ID, the name that the state prints on their ID may not correspond to the name that they use in real life, which could put them in danger. [6] Many countries restrict or even ban legal name changes, which endangers victims of abuse (such as adults who escaped from child abuse, domestic abuse, cults or gangs), who use a self-chosen name for a fresh start, to feel human, to recover from trauma or for physical safety reasons.
+
+As government ID is not universal and does not signify security or trust, government ID requirements only disproportionately and unfairly exclude people from services.
+
+Going back to the topic of “surveillance capitalism” — People can choose to stop using Google, Facebook, Windows or stock Android. There are many alternatives, such as DuckDuckGo, Mastodon, Linux and custom ROMs such as LineageOS or Graphene. There are also ways to protect your privacy, such as reducing usage of social media, using a VPN or Tor, using a burner phone, using a pseudonym, or using cash or crypto instead of credit cards. [7]
+
+In comparison, when the state coerces the vast majority of employers, landlords and hospitals to require government ID, there are only a few gray market alternatives left (e.g. under the table work, informal rentals for cash, doctors who accept out-of-pocket payments). [8]
+
+It is a stark contrast: If you don’t use Facebook for privacy reasons, you can still find different ways to keep in contact with friends and local events. If you can’t rent most apartments because the landlord requires a passport or driver’s license, you are very lucky if you can find a room in a shared apartment where your roommates deal with the contract for you and you pay rent to your roommates in cash. One thing can be an inconvenience, one thing can cause homelessness.
+
+Many people believe government ID is the only way to trust that “someone is who they say they are”. If someone admits that they don’t have “proper ID”, they are often seen as untrustworthy, hiding something or even dangerous. But this creates an impossible scenario, when no jurisdiction agrees to print ID for you — from stateless people who literally have nowhere to go, to refugees who can’t return to or interact with their country of birth for safety reasons, to adults whose births were never registered, to victims of child abuse, domestic abuse or cult abuse who don’t use their birth name due to decades of trauma or worse the risk of being tracked down and returned. Instead of blaming authoritarian countries, uncooperative bureaucrats, abusive or neglectful birth parents, violent ex-partners or sociopathic cult leaders, the victim is blamed, distrusted and considered as a criminal. [9]
+
+In an ideal world, people would be judged on their actions and intent, rather than on circumstances of birth and decisions of bureaucrats. For housing, only your ability to pay rent would be relevant. For a job, only your skills and work ethic would be relevant. For healthcare, only your medical condition would be relevant (it would be against the Hippocratic Oath to deny medical treatment to people without ID, especially if they are paying out-of-pocket in cash).
+
+For identity, it would be enough to say your name, get a vouch from a friend, landlord or employer, link to a social media profile, or use a non-government photo ID (such as from Digitalcourage or World Passport, which does not require birth registration or citizenship and allows self-chosen names).
+
+For authentication, you would use a password or PIN (e.g. SMS code to pickup mail), physical key or card (e.g. mailbox keys, membership cards) or a cryptographic keypair (such as in PGP or Bitcoin).
+
+For trust, word-of-mouth was the primary method before government IDs were invented (and made mandatory) in the 20th century. [10, 11] Nowadays, word-of-mouth includes vouches from friends, online reviews, social networks, web-of-trust and memberships. Cash deposits and escrow systems (e.g. Bitrated) would protect against scams, theft or damage.
+
+This meritocratic, non-government market is not theoretical. Permissionless free markets exist today – under the names of agorism, informal economies, black and gray markets, parallel economies or Second Realms – and offer hope and a means to survive to people in need. [12, 13, 14] While NGOs have tried in vain to convince the state to print IDs for vulnerable people [15, 16], these grassroots peer-to-peer markets practically help people to access work, housing and healthcare, even without government-issued ID. [17]
+
+There are many reasons why people participate in these agorist free markets. [18] It can be quicker and easier to rent out your spare room for cash, pay a doctor out-of-pocket instead of dealing with public health insurance, or hire an online freelancer for crypto. Bureaucracy doesn’t just shut people out of the market, it also takes time and money to fill out forms, deal with months-long wait times, pay extortionate fees, and apply for government permission (which may be denied for arbitrary or discriminatory reasons).
+
+(Furthermore: Since the state is based on force, fraud and violence, rather than on participation, consensus and voluntary cooperation, its existence is illegitimate and its permission is morally unnecessary. Examples of this: If an employer has found a skilled and hardworking employee, the state should have no right to prevent the employer from hiring them. If a doctor and patient want to perform a medical procedure under informed consent, the state should have no right to ban this. If a roommate wants to rent out their spare room, the state should have no right to prevent this. If a church wants to give refuge to homeless people, the state should have no right to evict them.)
+
+Most of these informal markets are based on word-of-mouth with cash-in-hand payments, such as informal apartment rentals, under the table work or health clinics run by volunteers. The internet can also offer a place for an uncensored digital economy — such as for remote work, global trade, activism, fundraising and community building.
+
+Unlike banking, credit cards, Paypal and Western Union, cryptocurrencies offer a practical way to send and receive money without government ID. [19, 20, 21] Instead of an ID scan, they only require a cryptographic keypair (like a username and password, but random and more secure), which anyone can generate with a wallet app on their phone or computer. Crypto ATMs, cash by mail, cash in person and gift cards help people to swap between crypto and their local currency (no bank account required), while hundreds of online stores, proxy merchants and marketplaces already accept uncensorable payments via Bitcoin, Monero and others. [22, 23, 24] As cryptocurrencies are based on peer-to-peer software (i.e. they are not controlled by a corporation or nation-state), transactions cannot be censored and users cannot be deplatformed. In addition to privacy and censorship-resistance, benefits include low fees (can be less than 1 cent, e.g. Litecoin, Monero), fast confirmation times (can be instant) and lack of chargebacks, fraud or counterfeits. [25]
+
+As the state continues to ostracize and even criminalize vulnerable people, agorism provides not only hope of inclusion and equal opportunities, but a practical, proven solution which works today. [26, 27] For universal and safe access to daily needs such as jobs, housing and healthcare, it is important to build and use these peer-to-peer free markets that are immune to the state’s monopoly on identity, invisible to the state’s data economy, and free for everyone to use.
+
+For more information about agorist free markets:
+
+An Agorist Primer — SEK3
+PDF: https://kopubco.com/pdf/An_Agorist_Primer_by_SEK3.pdf
+Audiobook: https://youtube.com/watch?v=Ul7K2yXMucE
+
+Second Realm: Book on Strategy — Smuggler & XYZ
+PDF: https://ia801807.us.archive.org/34/items/second-realm-digital/Second%20Realm%20Paperback%20New.pdf
+Audiobook: https://vonupodcast.com/free-audiobook-second-realm-book-on-strategy-by-smuggler-xyz
+
+Crypto Agorism: Free markets for a free world — AnarkioCrypto
+Video: https://tube.tchncs.de/w/tPvohTaiocfg5LEsFjGqHN
+Slides: https://anarkiocrypto.medium.com/crypto-agorism-free-markets-for-a-free-world-d9c755e6ef11
+
+Fifty things to do NOW — The Free and Unashamed
+https://libertyunderattack.com/fifty-things-now-free-unashamed
+
+A 21st Century Introduction to Agorism — Peter Kallman
+https://medium.com/@Kallman/a-21st-century-introduction-to-agorism-5dc69b54d79f
+
+Vonu Podcast
+https://vonupodcast.com
+
+Agora Podcast
+https://anchor.fm/mortified-penguin
+
+Monero Talk Podcast
+https://www.monerotalk.live
+
+Hack Liberty Forum
+https://forum.hackliberty.org
+
+Liberdon (Mastodon)
+https://liberdon.com
+
+Monero Town (Lemmy)
+https://monero.town
+
+Freedom Cells (Social network)
+https://freedomcells.org
+
+Sources:
+
+[1] https://thereboot.com/why-we-should-end-the-data-economy/
+[2] https://vonupodcast.com/know-your-customer-kyc-the-rarely-discussed-danger-guest-article-audio/
+[3] https://www.statelessness.eu/blog/each-person-left-living-streets-we-are-losing-society
+[4] https://www.penalreform.org/blog/proving-who-i-am-the-plight-of-people/
+[5] https://anarkio.codeberg.page/blog/roadblocks-to-obtaining-government-id.html
+[6] https://blog.twitter.com/common-thread/en/topics/stories/2021/whats-in-a-name-the-case-for-inclusivity-through-anonymity
+[7] https://anonymousplanet.org/guide.html
+[8] https://anarkio.codeberg.page/blog/crypto-agorism.html
+[9] https://index.statelessness.eu/sites/default/files/UNHCR%2C%20Faces%20of%20Statelessness%20in%20the%20Czech%20Republic%20(2020).pdf
+[10] https://fee.org/articles/passports-were-a-temporary-war-measure/
+[11] https://medium.com/@hansdezwart/during-world-war-ii-we-did-have-something-to-hide-40689565c550
+[12] https://medium.com/@Kallman/a-21st-century-introduction-to-agorism-5dc69b54d79f
+[13] https://kopubco.com/pdf/An_Agorist_Primer_by_SEK3.pdf
+[14] https://ia801807.us.archive.org/34/items/second-realm-digital/Second%20Realm%20Paperback%20New.pdf
+[15] https://unhcr.org/ibelong/about-statelessness
+[16] https://weforum.org/agenda/2020/11/legal-identity-id-app-aid-tech
+[17] https://anarkio.codeberg.page/blog/survival-outside-the-state.html
+[18] https://libertyunderattack.com/fifty-things-now-free-unashamed
+[19] https://c4ss.org/content/57847
+[20] https://whycryptocurrencies.com/toc.html
+[21] https://hackyourself.io/product/cryptocurrencies-hack-your-way-to-a-better-life/
+[22] https://blog.trezor.io/buy-bitcoin-without-kyc-33b883029ff1
+[23] https://monerica.com
+[24] https://bitcoinmagazine.com/business/kyc-free-bitcoin-circular-economies
+[25] https://getmonero.org/
+[26] https://vonupodcast.com/
+[27] https://anchor.fm/mortified-penguin

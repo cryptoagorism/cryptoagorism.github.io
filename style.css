@@ -1,0 +1,545 @@
+@font-face {
+  font-family: "SFTransRobotics";
+  src: url(SFTransRoboticsCondensed.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Glacial Indifference";
+  src: url(GlacialIndifference-Regular.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 40px;
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 20px;
+  color: #f3f0f0;
+  line-height: 120%;
+  background-color: #030202;
+  background-image: url(night_background2.png);
+  overflow-x: hidden;
+}
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #a8a3c2;
+}
+a:hover {
+  color: #f3f0f0;
+}
+b {
+  background-color: #f3f0f0;
+  color: #030202;
+  padding: 0px 5px;
+}
+b a {
+  color: #030202 !important;
+  text-shadow: none !important;
+}
+li {
+  padding-bottom: 10px;
+}
+h1,
+h2,
+.center {
+  font-size: 24px;
+  font-weight: normal;
+  color: #f3f0f0;
+  font-family: "SFTransRobotics";
+  text-shadow: -5px 0px 2px rgba(0, 0, 255, 0.2), 5px 0px 2px rgba(255, 0, 0, 0.2), -1px 1px 1px rgba(0, 0, 255, 0.3), 1px 1px 1px rgba(255, 0, 0, 0.3);
+}
+h2 {
+  font-size: 20px;
+  padding: 0px;
+  margin: 0px;
+}
+.center {
+  text-align: center;
+  padding: 40px;
+  padding-bottom: 10px;
+}
+.header {
+  margin: 0 auto;
+  width: 100vw;
+  height: 400px;
+  background-image: url(agorism_header2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.box-50 {
+  width: calc(50% - 10px);
+  display: inline-block;
+  height: 100%;
+  vertical-align: top;
+}
+.box-left {
+  padding-right: 10px;
+}
+.box-right {
+  padding-left: 10px;
+}
+.icon-group {
+  width: calc(100% - 10px);
+  display: inline-block;
+  height: auto;
+  vertical-align: middle;
+  margin: 10px auto;
+}
+.icon-group .icon {
+  width: 80px;
+  font-size: 60px;
+  margin-left: 5px;
+  margin-right: 15px;
+  display: inline-block;
+  height: auto;
+  vertical-align: middle;
+  color: #030202;
+  text-align: center;
+}
+.icon-group .icon-text {
+  width: calc(100% - 110px);
+  display: inline-block;
+  height: auto;
+  vertical-align: middle;
+  line-height: 125%;
+}
+.icon-box {
+  width: calc(50% - 10px);
+  display: inline-block;
+  height: auto;
+  vertical-align: top;
+  margin: 10px 0px;
+}
+.icon-box .icon {
+  font-size: 80px;
+  display: block;
+  height: auto;
+  vertical-align: top;
+  color: #030202;
+  text-align: center;
+  padding: 10px;
+}
+.icon-box .icon-text {
+  display: block;
+  height: auto;
+  vertical-align: top;
+  padding: 5px 10px;
+  text-align: center;
+}
+.icon-box .icon-text b {
+  font-weight: bold;
+  color: #f3f0f0;
+  vertical-align: top;
+}
+.icon-box .icon-text span {
+  font-size: 16px;
+  line-height: 100% !important;
+  display: inline-block;
+  max-width: 220px;
+  vertical-align: top;
+  padding-top: 5px;
+}
+.icon-float-left {
+  display: block !important;
+  float: left !important;
+  padding: 10px !important;
+  width: auto !important;
+}
+.icon-float-right {
+  display: block !important;
+  float: right !important;
+  padding: 10px !important;
+  width: auto !important;
+}
+.icon-box .icon-full {
+  width: auto;
+  max-width: 100%;
+}
+.icon {
+  text-shadow: -5px 0px 2px rgba(0, 0, 255, 0.2), 5px 0px 2px rgba(255, 0, 0, 0.2), -1px 1px 1px rgba(0, 0, 255, 0.3), 1px 1px 1px rgba(255, 0, 0, 0.3);
+  color: #030202 !important;
+}
+.linked-icon {
+  color: #030202 !important;
+}
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  vertical-align: middle;
+  margin-bottom: 20px;
+}
+.title,
+.desc {
+  padding: 20px;
+  text-align: left;
+  font-weight: normal;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  font-family: "SFTransRobotics";
+}
+.title {
+  font-size: 64px;
+  letter-spacing: -2px;
+  line-height: 50px !important;
+}
+.desc {
+  font-size: 24px;
+  line-height: 20px !important;
+}
+.header-text {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  padding-top: 40px;
+}
+.header-img {
+  display: inline-block;
+  height: auto;
+  vertical-align: bottom;
+  text-align: center;
+}
+.header-img img {
+  display: inline-block;
+  margin: 0 auto;
+  height: 370px;
+  width: auto;
+}
+.nav-bar {
+  font-family: "SFTransRobotics";
+  vertical-align: middle;
+  background-color: #030202;
+  text-shadow: -5px 0px 2px rgba(0, 0, 255, 0.2), 5px 0px 2px rgba(255, 0, 0, 0.2), -1px 1px 1px rgba(0, 0, 255, 0.3), 1px 1px 1px rgba(255, 0, 0, 0.3);
+  box-shadow: -5px 0px 2px rgba(0, 0, 255, 0.2), 5px 0px 2px rgba(255, 0, 0, 0.2), -1px 1px 1px rgba(0, 0, 255, 0.3), 1px 1px 1px rgba(255, 0, 0, 0.3);
+  display: block;
+  width: 80%;
+  max-width: 1200px;
+  padding: 10px;
+  border-radius: 20px;
+  height: 50px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: -25px;
+  margin-bottom: 25px;
+  position: relative;
+  z-index: 2;
+}
+.nav-bar a {
+  text-decoration: none;
+  padding-top: 4px;
+  font-size: 20px;
+  display: inline-block;
+  text-align: center;
+  width: calc(20% - 10px);
+  color: #f3f0f0 !important;
+  text-shadow: -5px 0px 2px rgba(0, 0, 255, 0.2), 5px 0px 2px rgba(255, 0, 0, 0.2), -1px 1px 1px rgba(0, 0, 255, 0.3), 1px 1px 1px rgba(255, 0, 0, 0.3) !important;
+}
+.agorism-bar {
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+  margin: 10px auto;
+  width: 100vw;
+  height: 20px;
+  background-color: transparent;
+}
+.content-img {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+  vertical-align: bottom;
+  text-align: center;
+}
+.content-img img {
+  display: inline-block;
+  margin: 0 auto;
+  width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
+.content-float {
+  display: inline;
+  width: 300px;
+  height: auto;
+  float: right;
+  margin: 10px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.content-small {
+  width: 150px;
+  height: auto;
+  margin: 10px;
+}
+p.before-small {
+  margin-bottom: 0px;
+  padding-bottom: 5px;
+  margin-top: 0px;
+  padding-top: 5px;
+}
+p.small {
+  font-size: 16px;
+  padding: 0px 40px 10px 40px;
+  margin: 0px;
+  color: #a8a3c2;
+  font-style: italic;
+  line-height: 100%;
+}
+ol li {
+  counter-increment: steps;
+}
+ol li:before {
+  content: counter(steps) ") ";
+  color: #fff;
+  font-size: 18px;
+  font-weight: normal;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+ol {
+  list-style: none;
+  counter-reset: steps;
+  padding-left: 18px;
+}
+ul li {
+  padding-top: 0px;
+  padding-bottom: 4px;
+  margin: 0px;
+}
+ul li:before {
+  content: "- ";
+  color: #fff;
+  font-size: 18px;
+  font-weight: normal;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+ul {
+  list-style: none;
+  padding-left: 18px;
+  padding-top: 8px;
+  padding-bottom: 4px;
+  margin: 0px;
+}
+#video {
+  width: 500px;
+  max-width: calc(100vw - 50px) !important;
+  box-shadow: -5px 0px 2px rgba(0, 0, 255, 0.2), 5px 0px 2px rgba(255, 0, 0, 0.2), -1px 1px 1px rgba(0, 0, 255, 0.3), 1px 1px 1px rgba(255, 0, 0, 0.3);
+  border-radius: 10px;
+}
+h1.blog {
+  margin: 40px auto 60px auto;
+  width: auto;
+  text-align: center;
+}
+#post {
+  display: block;
+  vertical-align: top;
+  padding: 0px 20px;
+  width: calc(60% - 20px);
+  margin: 0 auto;
+  font-size: 20px;
+}
+#post #title,
+#post #body {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 130%;
+}
+#post img {
+  max-width: 500px;
+  height: auto;
+}
+#post a {
+  text-decoration: none;
+  word-wrap: break-word;
+}
+#post h1 {
+  text-align: center;
+  color: #a8a3c2;
+  font-family: "SFTransRobotics";
+  font-size: 48px;
+  letter-spacing: -4px;
+  margin: 15px auto;
+  padding: 0px 0px 15px 0px;
+  text-shadow: -160px 0px 0px rgba(206, 77, 97, 0.2), 160px 0px 0px rgba(206, 186, 77, 0.2);
+  border-bottom: 1px dashed rgba(206, 77, 97, 0.2);
+}
+#post h2,
+#post h3,
+#post h4,
+#post h5 {
+  font-weight: normal;
+  color: #f3f0f0;
+  font-family: "SFTransRobotics";
+  text-shadow: -5px 0px 2px rgba(0, 0, 255, 0.2), 5px 0px 2px rgba(255, 0, 0, 0.2), -1px 1px 1px rgba(0, 0, 255, 0.3), 1px 1px 1px rgba(255, 0, 0, 0.3);
+}
+#post h2 {
+  font-size: 28px;
+}
+#post h3,
+#post h4 {
+  font-size: 24px;
+}
+#post h5,
+#post h6 {
+  font-size: 20px;
+}
+#post hr, hr.list {
+  background: linear-gradient(to right, rgb(0,0,255), rgb(255,0,0));
+  height: 1px;
+  border: 0px;
+  display: block;
+  margin: 40px auto;
+}
+#post ul {
+  margin: 0;
+}
+#post ul {
+  list-style-type: none;
+}
+#post ul > li {
+  text-indent: -5px;
+}
+#post ul > li:before {
+  content: "– ";
+  text-indent: -5px;
+  color: #fff;
+}
+#post ul li {
+  margin-bottom: 8px;
+}
+#post ul li a {
+  text-decoration: none;
+}
+#post ul li a:hover {
+  text-decoration: underline;
+}
+@media only screen and (max-width: 800px) {
+  #post {
+    width: 99% !important;
+    display: block !important;
+    float: none !important;
+    margin: 0 auto !important;
+  }
+}
+@media only screen and (min-width: 800px) and (max-width: 1200px) {
+  .container {
+    max-width: 800px !important;
+    margin-bottom: 0px !important;
+  }
+  .agorism-bar {
+    display: none !important;
+  }
+  .content-float,
+  .icon-float-left,
+  .icon-float-right {
+    float: none !important;
+    margin: 0 auto !important;
+    display: block !important;
+  }
+  .nav-bar {
+    width: 800px !important;
+  }
+  .nav-bar a {
+    font-size: 14px !important;
+  }
+  .title {
+    font-size: 56px !important;
+  }
+  .desc {
+    font-size: 18px !important;
+  }
+  .header-text {
+    padding-top: 0px !important;
+  }
+  .header {
+    height: 160px !important;
+    background-size: auto 180%;
+  }
+  .icon-box {
+    width: calc(50% - 10px) !important;
+  }
+  .icon, .icon-box .icon, .icon-group .icon {
+     display: none !important;
+  }
+  .icon-group .icon-text, .icon-box .icon-text {
+    width: 100% !important;
+  }
+  #post-img {
+    max-width: 350px !important;
+  }
+  #video {
+    max-width: 350px !important;
+  }
+}
+@media only screen and (max-width: 799px) {
+  .box-50 {
+    width: 99% !important;
+    display: block !important;
+    float: none !important;
+    margin: 0 auto !important;
+    position: static !important;
+    margin-bottom: 40px !important;
+  }
+  .box-left,
+  .box-right {
+    padding: 0px !important;
+  }
+  .header-img,
+  .nav-bar {
+    display: none !important;
+  }
+  .icon-box {
+    width: calc(50% - 10px) !important;
+  }
+  .icon, .icon-box .icon, .icon-group .icon {
+     display: none !important;
+  }
+  .icon-group .icon-text, .icon-box .icon-text {
+    width: 100% !important;
+  }
+  .title {
+    font-size: 56px !important;
+  }
+  .desc {
+    font-size: 18px !important;
+  }
+  .header-text {
+    padding-top: 0px !important;
+  }
+  .header {
+    height: 160px !important;
+    background-size: auto 180%;
+  }
+  .container {
+    max-width: 99vw !important;
+    margin-bottom: 0px !important;
+  }
+  .agorism-bar {
+    display: none !important;
+  }
+  .content-float,
+  .icon-float-left,
+  .icon-float-right {
+    float: none !important;
+    margin: 0 auto !important;
+    display: block !important;
+  }
+  img {
+    max-width: 99vw !important;
+  }
+  #post-img {
+    max-width: calc(100vw - 50px) !important;
+  }
+  #video {
+    max-width: calc(100vw - 50px) !important;
+  }
+}
