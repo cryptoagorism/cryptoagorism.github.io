@@ -6,6 +6,6 @@ Agorism - also known as crypto anarchy, Second Realm, cypherpunk, informal econo
 
 Agorism is individualist, meritocratic and creates equal opportunities, where the individual's beliefs, effort and skill matter more than arbitrary circumstances of birth, unjust governments or any other form of discrimination or coercion.
 
-This content is in the public domain.
+Website, articles and videos are in the public domain.
 
 Tags: Crypto, agorism, anarchism, privacy, anonymity, cypherpunk
